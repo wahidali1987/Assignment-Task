@@ -1,0 +1,21 @@
+{
+"places":[{
+	"name": "Abbotsford",
+	"country": "CA",
+	"ascii": "Abbotsford",
+	"location": {
+		"type": "Point",
+		"coordinates": [-122.25257, 49.05798]
+	},
+	"distance": 0.025836370105464856
+}, {
+	"name": "banke bihari",
+	"country": "CA",
+	"ascii": "banke bihari",
+	"location": {
+		"type": "Point",
+		"coordinates": [-122.25, 49.05798]
+	},
+	"distance": 0.0906539301898188
+}]
+}
